@@ -35,3 +35,8 @@ xmlrpc.php
 
 # Ignore composer
 /vendor
+
+# Ignore contrib modules
+/modules
+!**/modules/custom/
+!**/modules/custom/**
